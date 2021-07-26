@@ -1,4 +1,4 @@
-import { MakeTypes } from './model/MakeTypes';
+import { MakeTypes } from './MakeTypes';
 
 export class Car {
   speed: number;
