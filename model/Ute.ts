@@ -1,4 +1,5 @@
 import { Car } from './Car';
+import { MakeTypes } from './MakeTypes';
 
 export class Ute extends Car {
   capacity: number;
